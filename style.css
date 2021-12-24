@@ -45,6 +45,14 @@ body {
   font-style: italic;
 }
 
+.underline {
+  border-bottom: 3px solid yellow;
+}
+
+.about-p {
+  font-size: 15px;
+}
+
 /* Footer */
 footer {
   margin-top: 30px;
