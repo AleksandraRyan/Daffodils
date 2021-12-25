@@ -75,4 +75,8 @@ footer p {
     font-size: 3rem;
     margin-top: 20px;
   }
+
+  .about-p {
+    padding: 0px 20px;
+  }
 }
