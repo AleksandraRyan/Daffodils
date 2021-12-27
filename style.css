@@ -53,6 +53,14 @@ body {
   font-size: 15px;
 }
 
+/* Contact */
+.contact-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+}
+
 /* Footer */
 footer {
   margin-top: 30px;
@@ -78,5 +86,11 @@ footer p {
 
   .about-p {
     padding: 0px 20px;
+  }
+
+  .btn-primary {
+    margin: auto;
+    display: block;
+    width: 100%;
   }
 }
